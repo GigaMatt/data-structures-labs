@@ -1,10 +1,7 @@
-/*CS 2302
- * Lab 01
+/*
  * By: Matthew S Montoya
- * Instructor: Dr. Olac Fuentes
- * TAs: Md Abdul Kader && Zakia Al Kadri
  * Purpose: To identify various sorting algorithms, alongside their time complexity
- * Last Modified: 27 January 2017
+ * Last Modified: 09 January 2018
  */
 
 import java.util.*;
